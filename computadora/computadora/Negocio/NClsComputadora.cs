@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace computadora.Negocio
 {
-    class NClsComputadora
+    class NClscomputadora
     {
     }
 }
