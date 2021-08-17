@@ -1,2 +1,7 @@
 C:\Users\50376\Documents\GitHub\Primerlaboratoriocomputadoraa\computadora\computadora\obj\Debug\computadora.csproj.AssemblyReference.cache
 C:\Users\50376\Documents\GitHub\Primerlaboratoriocomputadoraa\computadora\computadora\obj\Debug\computadora.csproj.CoreCompileInputs.cache
+C:\Users\50376\Documents\GitHub\Primerlaboratoriocomputadoraa\computadora\computadora\bin\Debug\computadora.exe.config
+C:\Users\50376\Documents\GitHub\Primerlaboratoriocomputadoraa\computadora\computadora\bin\Debug\computadora.exe
+C:\Users\50376\Documents\GitHub\Primerlaboratoriocomputadoraa\computadora\computadora\bin\Debug\computadora.pdb
+C:\Users\50376\Documents\GitHub\Primerlaboratoriocomputadoraa\computadora\computadora\obj\Debug\computadora.exe
+C:\Users\50376\Documents\GitHub\Primerlaboratoriocomputadoraa\computadora\computadora\obj\Debug\computadora.pdb

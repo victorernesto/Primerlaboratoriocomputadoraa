@@ -11,16 +11,13 @@ namespace computadora.Negocio
     {
         public String Encendiendo(Clscomputadora computadora) 
         {
-            computadora.MemoriaRam = 8;
-            computadora.Procesador = "intel core !5 dual";
+           
 
-            return "la computadora con memoria ran de"+ computadora.MemoriaRam +"gb y micro procesadora"+ computadora.Procesador+"esta encendida";
+            return " la computadora con memoria ran de "+ computadora.MemoriaRam +"gb y micro procesadora "+ computadora.Procesador+" esta encendida ";
         }
-
+      
 
 
     }
     
-}
-   
 }
