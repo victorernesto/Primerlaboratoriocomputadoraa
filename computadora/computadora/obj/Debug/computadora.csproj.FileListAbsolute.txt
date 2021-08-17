@@ -1,0 +1,2 @@
+C:\Users\50376\Documents\GitHub\Primerlaboratoriocomputadoraa\computadora\computadora\obj\Debug\computadora.csproj.AssemblyReference.cache
+C:\Users\50376\Documents\GitHub\Primerlaboratoriocomputadoraa\computadora\computadora\obj\Debug\computadora.csproj.CoreCompileInputs.cache
